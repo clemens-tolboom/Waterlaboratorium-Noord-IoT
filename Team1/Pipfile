@@ -12,6 +12,7 @@ altair = "*"
 vega-datasets = "*"
 vega = "*"
 xlwings = "*"
+xlrd = "*"
 
 [dev-packages]
 
