@@ -1,0 +1,7 @@
+*.csv
+*.exe
+*.xlsx
+*.xls
+.ipynb_*
+
+.DS_Store
